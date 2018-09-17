@@ -1,0 +1,34 @@
+_repo: Half-Hours-with-the-Lower-Animals-Protozoans-Sponges-Corals-Shells-Insects-and-Crustaceans_52085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holder, Charles Frederick
+    birthdate: 1851
+    deathdate: 1915
+    gutenberg_agent_id: '46666'
+    url: http://www.gutenberg.org/2009/agents/46666
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Invertebrates'
+- !lcsh 'Animals'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Inhabitants of a drop of water -- The sponges -- The jellyfishes
+  -- The sea anemones -- The corals -- The stone lilies -- The stars of the sea --
+  Ocean hedgehogs -- The sea cucumbers -- The worms -- The two-valved shells -- The
+  univalves -- The cuttlefishes -- The crustaceans -- From barnacles to lobsters --
+  The crabs -- Luminous crabs -- The insects -- Lower forms of insects -- The spiders
+  -- Some six-legged insects -- Some mimics -- The grasshoppers and locusts -- The
+  beetles -- The bugs -- Flies and mosquitoes -- The butterflies and moths -- The
+  ants -- The bees and wasps.
+title: "Half Hours with the Lower Animals\r\nProtozoans, Sponges, Corals, Shells,\
+  \ Insects, and Crustaceans"
+url: http://www.gutenberg.org/ebooks/52085
